@@ -8,5 +8,5 @@
 
 
 ### My Account Info
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=jerechen11&show_icons=true&layout=compact&theme=nord" alt="abuanwar072" />
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerechen11&layout=compact" alt="abuanwar072" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=jerechen11&show_icons=true&layout=compact&theme=nord" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerechen11&layout=compact" width="400" height="200" />
