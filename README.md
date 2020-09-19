@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jere</h1>
 
-- 🔭 I’m currently is an ** Android Engineer **
-- 🌱 I’m currently learning ** Java, Kotlin, Flutter **
+- 🔭 I’m currently Job 👉 ![](https://img.shields.io/static/v1?label=Job&message=Android%20Engineer&color=00CD66)
+- 🌱 I’m currently learning 👉 ![](https://img.shields.io/static/v1?label=Learning&message=Java%20Kotlin%20Flutter&color=FFEC8B)
 - 📫 You can contact me by 👉 [![](https://img.shields.io/badge/Gmail-ayush2608%40gmail.com-red)](mailto:ayush2608@gmail.com)
 - 👨‍💻 My Blog Website 👉 [Jere Chen Blog](https://blog.csdn.net/jerechen)
 - 💪 The purpose of sharing is to wait for someone to point out my mistakes. If you find any mistakes from my project, please point them out unreservedly. Thank you ~ Peace🤞~
